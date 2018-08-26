@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'BauhausLightCTT';
+    src: url('BauhausLightCTT.woff2') format('woff2'),
+        url('BauhausLightCTT.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BauhausHeavyC';
+    src: url('BauhausHeavyC.woff2') format('woff2'),
+        url('BauhausHeavyC.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
